@@ -7,4 +7,5 @@ I am a professional musician–turned–software developer. I have a natural, in
 ---
 ## Current projects
 
-**DeckDuel**
+**DeckDuel** — A web client for real-time play of a (currently) AI-designed lightweight strategy card game. Includes **Socket.IO**-enabled real-time chat, both during and outside of gameplay.
+(GitHub repo)[https://github.com/jskartes/deckduel]  |  (Heroku deployment)[https://deckduel-4d85491488ea.herokuapp.com/]
