@@ -12,5 +12,4 @@ I am a professional musician–turned–software developer. I have a natural, in
 ---
 ## Contact me
 
-E-mail: joshuakartes@gmail.com
-LinkedIn: [](https://www.linkedin.com/in/jskartes/)
+[E-mail](mailto:joshuakartes@gmail.com)  |  [LinkedIn](https://www.linkedin.com/in/jskartes/)
